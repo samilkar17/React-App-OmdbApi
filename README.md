@@ -1,7 +1,10 @@
+![omdb-api](https://user-images.githubusercontent.com/33507392/111035620-49943380-83e9-11eb-9537-fb14744fadc6.png)
 # PÁGINA WEB DE PELICULAS
 
 Página web desarrolla en el framework de [React js](http://https://es.reactjs.org/ "react js") en la cual es posible realizar
 una búsqueda de las series, películas, dibujos animados favoritos a la Api-Rest de [OMDBApi](http://http://www.omdbapi.com/ "OMDBApi"), la cual permite obtener información asociada a nuestra búsqueda
+
+![Uploading omdb-api.png…]()
 
 ## Objetivo
 
